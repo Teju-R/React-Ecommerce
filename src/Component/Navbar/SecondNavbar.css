@@ -1,0 +1,35 @@
+.second-nav-flex-div{
+display: flex;
+justify-content: center;
+background-color: darkslategrey;
+}
+.second-nav-width-div{
+width: 100%;
+}
+.second-nav-main-div{
+background-color: #232f3e
+
+}
+.second-nav-main-div:hover{
+    border: 1px solid white;
+}
+
+
+
+.second-nav-main-flex-div
+{
+display: flex;
+gap: 5px;
+}
+.second-nav-main-contend-div{
+padding: 5px;
+cursor: pointer;
+}
+
+.second-nav-main-contend-div:hover{
+    margin: 0px;
+    color: white;
+}
+.hamber-svg{
+    color: white;
+}
